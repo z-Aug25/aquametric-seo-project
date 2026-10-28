@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace the placeholder with your published site URL before deployment.
+Sitemap: https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/sitemap.xml
